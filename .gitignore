@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+/dist/
+/out/
+/build/
+
+# Electron packaging artifacts
+*.exe
+*.dmg
+*.AppImage
+*.snap
+*.deb
+*.rpm
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+
+# Temporary files
+*.tmp
+*.temp
+config.bat
